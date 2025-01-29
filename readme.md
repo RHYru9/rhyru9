@@ -1,1 +1,1 @@
-[![](https://visitcount.itsvg.in/api?id=rhyru9&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhyru9&label=Profile%20views&color=0e75b6&style=flat" alt="rhyru9" /> </p>
