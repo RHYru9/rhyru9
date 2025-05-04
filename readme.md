@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](portfolio-website-link)
+[![MasterHead](https://github.com/RHYru9/rhyru9/blob/main/banner.gif)](portfolio-website-link)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhyru9&label=Profile%20views&color=0e75b6&style=flat" alt="rhyru9" /> </p>
 <h1 align="center">
