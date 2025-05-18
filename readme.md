@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RHYru9/rhyru9/blob/main/3tes.gif" alt="MasterHead" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/RHYru9/rhyru9/blob/main/banner.gif">
 </p>
 
 <p align="left">
