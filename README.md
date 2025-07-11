@@ -12,4 +12,4 @@
 
 - **Specializations**: Web Application Security, API Security, Cloud Infrastructure Security
 - **Research Areas**: OWASP Top 10, Authentication Bypass, Business Logic Flaws, IDOR
-- **Tools**: Burp Suite, OWASP ZAP, Nmap, Custom Python & Golang Scripts
+- **Tools**: Burp Suite, OWASP ZAP, Nmap, Yakit, Custom Python & Golang Scripts
