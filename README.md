@@ -2,7 +2,7 @@
   <img src="https://github.com/RHYru9/rhyru9/blob/main/R.gif" alt="Security Banner">
 </p>
 
-## Hi, I'm Rey! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />![Profile View Counter](https://komarev.com/ghpvc/?username=rhyru9)
+## Hi, I'm Rey! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /><img align="right" src="https://komarev.com/ghpvc/?username=rhyru9" alt="Profile View Counter" />
 
 *Passionate about CyberSecurity and Digital Defense*
 
