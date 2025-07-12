@@ -6,7 +6,7 @@
 
 *Passionate about CyberSecurity and Digital Defense*
 
-<img align='right' src="https://github.com/RHYru9/rhyru9/blob/main/Re.gif" width="230" />
+<img align='right' src="https://github.com/RHYru9/rhyru9/blob/main/Re.gif" width="430" />
 
 ***Active Bug Hunter on**: YesWeHack, HackerOne*
 
