@@ -8,7 +8,7 @@
 
 <img align='right' src="https://github.com/RHYru9/rhyru9/blob/main/Re.gif" width="430" />
 
-***Active Bug Hunter on**: YesWeHack, HackerOne*
+***Active Bug Hunter on**: YesWeHack*
 
 - **Specializations**: Web Application Security, API Security, Cloud Infrastructure Security
 - **Research Areas**: OWASP Top 10, Authentication Bypass, Business Logic Flaws, IDOR
